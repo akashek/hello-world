@@ -1,4 +1,4 @@
-About Myself
+About Akash
 From orchestrating complex, high-value projects to delivering tangible outcomes for clients across the globe, I am passionate about making a measurable impact in every role I take on. 
 With 11 years of experience as an IT Project Manager, I’ve managed end-to-end project lifecycles, from budgeting to stakeholder alignment and agile delivery, focusing on maximizing efficiency, ensuring timely delivery, and exceeding client expectations. 
 Currently, I’m enhancing my technical and analytical capabilities as a Master’s student in Data Science and Analytics at Maynooth University, Ireland, adding advanced data skills to my project management toolkit.
